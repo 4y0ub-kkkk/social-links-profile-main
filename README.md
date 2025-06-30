@@ -1,2 +1,2 @@
 #Profile with social links.
-![Alt text](assets\images\screenshot)
+![Alt text](assets\images\screenshot.png)
